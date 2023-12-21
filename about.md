@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Not much here
+Tech enthusiast who isn't serious about blogging.
