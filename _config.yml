@@ -10,6 +10,8 @@ header_pages:
 remote_theme: jekyll/minima
 minima:
   skin: classic
+plugins:
+  - jekyll-feed
 author:
   name: Sunil
   email: sunil@4vr.me
