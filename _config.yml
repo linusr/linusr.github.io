@@ -1,0 +1,15 @@
+url: https://4vr.me
+title: Shouting to the Void
+mastodon_username: sunil@social.4vr.me
+github_username: linusr
+subscribe_rss: /feed.xml
+description: "A place to shout in silence."
+header_pages:
+  - about.md
+# theme: minima
+remote_theme: jekyll/minima
+minima:
+  skin: classic
+author:
+  name: Sunil
+  email: sunil@4vr.me
